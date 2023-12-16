@@ -1,7 +1,5 @@
 # login MERN
 
-Breve descripción de tu proyecto aquí.
-
 ## Demostración del Proyecto
 
 ### Backend
