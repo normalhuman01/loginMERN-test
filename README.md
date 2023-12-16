@@ -115,7 +115,7 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 5. Realiza un commit de tus cambios:
 
    ```bash
-   git commit -m "Agrega mi característica"
+   git commit -m "my changes"
    ```
 
 6. Sube tus cambios a tu repositorio fork en GitHub:
